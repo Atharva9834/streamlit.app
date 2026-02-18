@@ -1,0 +1,84 @@
+## 💻 What is C++?
+
+![Image](https://codescracker.com/cpp/program/images/cpp-all-programs.JPG)
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png)
+
+![Image](https://content.instructables.com/F1N/X1IH/HMMFA53Q/F1NX1IHHMMFA53Q.png)
+
+![Image](https://d8it4huxumps7.cloudfront.net/uploads/images/64f6e68316d2d_basics_of_oop_01.jpg)
+
+**C++** is a powerful, high-performance **programming language** used to build software like games, operating systems, browsers, applications, and embedded systems.
+
+It was developed by **Bjarne Stroustrup** in 1985 as an extension of the C language.
+
+---
+
+## 🔹 Simple Definition
+
+C++ is a language that:
+
+* Lets you write fast and efficient programs
+* Supports both **procedural programming** (like C)
+* Supports **object-oriented programming (OOP)**
+
+---
+
+## 🔹 Where is C++ Used?
+
+C++ is used in:
+
+* 🎮 Game development (e.g., Unreal Engine)
+* 🖥 Operating systems (parts of Windows)
+* 🌐 Browsers (like Chrome)
+* 📱 Applications
+* 🚗 Embedded systems
+* 💰 Banking & financial systems (because it’s very fast)
+
+---
+
+## 🔹 Key Features of C++
+
+1. **Fast & Efficient**
+2. **Object-Oriented (OOP)**
+
+   * Classes
+   * Objects
+   * Inheritance
+   * Polymorphism
+3. **Low-level memory control**
+4. **Portable (runs on many platforms)**
+
+---
+
+## 🔹 Basic Example Program
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World!";
+    return 0;
+}
+```
+
+👉 This program prints: **Hello, World!**
+
+---
+
+## 🔹 Why Learn C++ for Placements?
+
+If you're preparing for placements:
+
+* Most companies allow C++ for coding rounds
+* Very popular for **Data Structures & Algorithms**
+* Helps build strong problem-solving skills
+
+---
+
+If you want, I can also explain:
+
+* What is OOP in C++
+* Difference between C and C++
+* How to start learning C++ step-by-step 🚀
